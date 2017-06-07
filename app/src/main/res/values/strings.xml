@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataBaseDemo</string>
+    
+    <string name="button_add">Add</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_read">Read</string>
+    <string name="button_clear">Clear</string>
+
+    <string name="phone_id">Id</string>
+    <string name="phone_brand">Brand</string>
+    <string name="phone_model">Model</string>
+</resources>
